@@ -1,2 +1,2 @@
-# SalCyberAware-
+# SalCyberAware
 My GitHub profile
