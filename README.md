@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sal-cybersecurity"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:Sal127@proton.me"><img src="https://img.shields.io/badge/Email-Reach%20out-22c55e?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
